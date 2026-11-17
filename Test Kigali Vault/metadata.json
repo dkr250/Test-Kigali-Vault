@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Vault — Commercial Storage & Marketplace",
+  "description": "Integrated public B2B/B2C marketplace and multi-role warehouse storage, inventory, and fulfillment management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
